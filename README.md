@@ -5,7 +5,7 @@ Unlock powerful business intelligence by scraping real-time reviews from Google 
 ### 🔗 Try the Actor on Apify
 
 **Deploy it instantly on Apify →**  
-👉 [Comprehensive Google Maps Reviews Scraper](https://apify.com/blueorion/comprehensive-google-maps-reviews-scraper)
+👉 [Comprehensive Google Maps Reviews Scraper](https://apify.com/blueorion/fast-google-maps-reviews-scraper)
 
 ---
 
@@ -89,8 +89,8 @@ Unlock powerful business intelligence by scraping real-time reviews from Google 
   "imageUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUvywGvtMhaoK8LQg78zAuFKIRLnui89fvvnREv5ZuHPu1XfBit=w36-h36-p-rp-mo-ba3-br100",
   "category": "Modern art museum"
 }
-
+```
 ### 🔗 Try the Actor on Apify
 
 **Deploy it instantly on Apify →**  
-👉 [Comprehensive Google Maps Reviews Scraper](https://apify.com/blueorion/comprehensive-google-maps-reviews-scraper)
+👉 [Comprehensive Google Maps Reviews Scraper](https://apify.com/blueorion/fast-google-maps-reviews-scraper)
